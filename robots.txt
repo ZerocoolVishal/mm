@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mindmechanics.in/sitemap.xml
