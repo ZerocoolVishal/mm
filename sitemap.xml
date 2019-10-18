@@ -1,37 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>http://mindmechanics.in/</loc>
-  <lastmod>2019-10-18T16:48:47+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>http://mindmechanics.in/index.html</loc>
-  <lastmod>2019-10-18T16:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://mindmechanics.in/about.html</loc>
-  <lastmod>2019-10-18T16:48:47+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://mindmechanics.in/qualifications.html</loc>
-  <lastmod>2019-10-18T16:48:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://mindmechanics.in/contact.html</loc>
-  <lastmod>2019-10-18T16:48:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
+<?xml-stylesheet type='text/xsl' href='sitemap.xsl'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>http://mindmechanics.in/index.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/about.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/qualifications.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/contact.html</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-1.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-2.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-3.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-4.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-5.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-6.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-7.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-9.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-10.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-11.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
+  <url>
+    <loc>http://mindmechanics.in/images/work-12.jpg</loc>
+    <changefreq>Monthly</changefreq>
+    <priority>1</priority>
+    <lastmod>2019-10-18T17:11:54Z</lastmod>
+  </url>
 </urlset>
